@@ -1,6 +1,7 @@
 flask
-Pillow
+gunicorn  
 torch
 torchvision
+Pillow
 huggingface_hub
 numpy
