@@ -5,3 +5,8 @@ torchvision
 Pillow
 huggingface_hub
 numpy
+groq
+twilio
+python-telegram-bot
+transformers
+google-genai
